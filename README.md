@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
     <head>
         <title>My Web Page!</title>
@@ -11,9 +10,9 @@
             }
 
             .container > div {
-                background-color: springgreen;
+                background-color: green;
                 font-size: 20px;
-                margin: 20px;
+                margin: 10px;
                 padding: 20px;
                 width: 200px;
             }
