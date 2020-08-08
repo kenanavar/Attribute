@@ -1,38 +1,15 @@
-
+<!DOCTYPE html>
 <html>
-    <head>
-        <title>My Web Page!</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <style>
-            .container {
-                display: flex;
-                flex-wrap: wrap;
-            }
+<body>
 
-            .container > div {
-                background-color: green;
-                font-size: 20px;
-                margin: 10px;
-                padding: 20px;
-                width: 200px;
-            }
-        </style>
-    </head>
-    <body>
-    <a href="http://maps.google.com/?q=1200 Pennsylvania Ave SE, Washington, District of Columbia, 20003">Map Click</a>
-        <div class="container">
-            <div>A. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id fermentum elit. Aenean ornare porta sagittis.</div>
-            <div>B. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id fermentum elit. Aenean ornare porta sagittis.</div>
-            <div>C. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id fermentum elit. Aenean ornare porta sagittis.</div>
-            <div>D. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id fermentum elit. Aenean ornare porta sagittis.</div>
-            <div>E. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id fermentum elit. Aenean ornare porta sagittis.</div>
-            <div>F. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id fermentum elit. Aenean ornare porta sagittis.</div>
-            <div>G. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id fermentum elit. Aenean ornare porta sagittis.</div>
-            <div>H. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id fermentum elit. Aenean ornare porta sagittis.</div>
-            <div>I. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id fermentum elit. Aenean ornare porta sagittis.</div>
-            <div>J. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id fermentum elit. Aenean ornare porta sagittis.</div>
-            <div>K. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id fermentum elit. Aenean ornare porta sagittis.</div>
-            <div>L. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id fermentum elit. Aenean ornare porta sagittis.</div>
-        </div>
-    </body>
+<h1>Tura Kft. Address Book</h1>
+
+<p><a href="http://maps.google.com/?q=1239 Budapest, Grassalkovich út 255. K10. 1. ép.">Grassalkovich Office</a></p>
+<p><a href="http://maps.google.com/?q=1134 Budapest, Kassak Lajos 69.">Kassak Lajos 69.</a></p>
+<p><a href="http://maps.google.com/?q=2120 Dunakeszi, Verseny utca 33.">Dunakeszi Torszhivatal</a></p>
+<p><a href="http://maps.google.com/?q=3300 Eger, hrsz.:6447/4">Eger Kertesz utca Parkolohaz</a></p>
+<p><a href="http://maps.google.com/?q=1082 Budapest, Futó u. 43-45">Corvin Sétány 122B.</a></p>
+<p><a href="http://maps.google.com/?q=1147 Budapest, Fúrész utca 88.">Fúrész utca 88.</a></p>
+<p><a href="http://maps.google.com/?q=1117 Budapest, Budafoki ut 215.">Walzer</a></p>
+</body>
 </html>
