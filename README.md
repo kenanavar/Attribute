@@ -1,7 +1,9 @@
 <html>
 <body>
 
-<h1>Tura Kft. Address Book</h1>
+<h1>Tura Kft.</h1>
+<h1>Address Book</h1>
+
 
 <p><a href="http://maps.google.com/?q=1239 Budapest, Grassalkovich út 255. K10. 1. ép.">Grassalkovich Office</a></p>
 <p><a href="http://maps.google.com/?q=1134 Budapest, Kassak Lajos 69.">Kassak Lajos 69.</a></p>
