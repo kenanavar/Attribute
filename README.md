@@ -19,6 +19,7 @@
         </style>
     </head>
     <body>
+    <a href="http://maps.google.com/?q=1200 Pennsylvania Ave SE, Washington, District of Columbia, 20003">Map Click</a>
         <div class="container">
             <div>A. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id fermentum elit. Aenean ornare porta sagittis.</div>
             <div>B. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id fermentum elit. Aenean ornare porta sagittis.</div>
