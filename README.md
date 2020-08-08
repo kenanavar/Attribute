@@ -11,5 +11,12 @@
 <p><a href="http://maps.google.com/?q=1147 Budapest, Fúrész utca 88.">Fúrész utca 88.</a></p>
 <p><a href="http://maps.google.com/?q=1117 Budapest, Budafoki ut 215.">Walzer</a></p>
 <p><a href="http://maps.google.com/?q=XI. Budapest, Medvetalp utca 7.">Terrace Residence Madarhegy 4.</a></p>
+<p><a href="http://maps.google.com/?q=1021 Budapest, Harshégyi utca 34.">Harshégyi utca 34.</a></p>
+<p><a href="http://maps.google.com/?q=1132 Budapest, Béke Tér 10-11.">Béke Tér 10-11.</a></p>
+<p><a href="http://maps.google.com/?q=8600 Siófok, Erkel Ferenc 2/c.">Azur Hotel Siófok</a></p>
+<p><a href="http://maps.google.com/?q=2030 Érd, Gladiolus utca 10.">Érd, Gladiolus utca 10.</a></p>
+
+
+
 </body>
 </html>
