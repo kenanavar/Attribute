@@ -19,7 +19,8 @@
 <p><a href="http://maps.google.com/?q=8600 Siófok, Erkel Ferenc 2/c.">Azur Hotel Siófok</a></p>
 <p><a href="http://maps.google.com/?q=2030 Érd, Gladiolus utca 10.">Érd, Gladiolus utca 10.</a></p>
 
-<p><a href="http://maps.google.com/?q=MOL Gas station">En Yakin MOL</a></p>
+<p><a href="http://maps.google.com/?q=MOL Gas station">En Yakın MOL İstasyonu</a></p>
+
 
 
 </body>
