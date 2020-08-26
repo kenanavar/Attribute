@@ -33,12 +33,12 @@
    
   <tr>
      <td><a href="http://maps.google.com/?q=2030 Érd, Gladiolus utca 10.">Érd, Gladiolus utca 10.</a></td>
-     <td></td>
+     <td><a href="http://maps.google.com/?q=1141 Budapest, Szugló u. 125.">Paskál Rose</a></td>
     </tr>
     
    <tr>
      <td><a href="http://maps.google.com/?q=8600 Siófok, Erkel Ferenc 2/c.">Azur Hotel Siófok</a></td>
-     <td></td>
+     <td><a href="http://maps.google.com/?q=1145 Budapest, Újvilág utca 24.">Újvilág utca 24.</a></td>
     </tr>
 </table>
 
