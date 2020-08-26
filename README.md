@@ -40,6 +40,16 @@
      <td><a href="http://maps.google.com/?q=8600 Siófok, Erkel Ferenc 2/c.">Azur Hotel Siófok</a></td>
      <td><a href="http://maps.google.com/?q=1145 Budapest, Újvilág utca 24.">Újvilág utca 24.</a></td>
     </tr>
+   
+   <tr>
+     <td></td>
+     <td><a href="http://maps.google.com/?q=1139 Budapest, Meder utca 6.">Marina Portside</a></td>
+    </tr>
+   
+   <tr>
+     <td></td>
+     <td><a href="http://maps.google.com/?q=1125 Budapest, Kútvölgyi út 37.">Kútvölgyi út 37.</a></td>
+    </tr>
 </table>
 
 
