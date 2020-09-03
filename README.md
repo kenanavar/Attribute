@@ -8,6 +8,7 @@
 <p><a href="http://maps.google.com/?q=1239 Budapest, Grassalkovich út 255. K10. 1. ép.">Grassalkovich Office</a></p>
 <p><a href="http://maps.google.com/?q=1031 Budapest, Nimród utca 3.">Nimród utca 3.</a></p>
 <p><a href="http://maps.google.com/?q=MOL Gas station">En Yakın MOL İstasyonu</a></p>
+<p><a href="http://maps.google.com/?q= Dunaharaszti, Jedlik Ányos út 27, 2330">Transemex</a></p>
 
 <hr>
 <table>
