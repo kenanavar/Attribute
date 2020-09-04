@@ -51,6 +51,11 @@
      <td></td>
      <td><a href="http://maps.google.com/?q=1125 Budapest, Kútvölgyi út 37.">Kútvölgyi út 37.</a></td>
     </tr>
+    
+   <tr>
+     <td></td>
+     <td><a href="http://maps.google.com/?q=1134 Budapest, Lehel u. 25.">Metropol 13</a></td>
+    </tr>
 </table>
 
 
