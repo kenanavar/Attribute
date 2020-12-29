@@ -9,7 +9,9 @@
 <p><a href="http://maps.google.com/?q=1031 Budapest, Nimród utca 3.">Nimród utca 3.</a></p>
 <p><a href="http://maps.google.com/?q=MOL Gas station">En Yakın MOL İstasyonu</a></p>
 <p><a href="http://maps.google.com/?q= Dunaharaszti, Jedlik Ányos út 27, 2330">Transemex</a></p>
-<p><a href="http://maps.google.com/?q= 2096 Üröm , Fő utca 1.">Hexavit</a></p>
+<p><a href="https://www.hrportal.hu/munkaido_2020.html">2020 Yılı Resmi Tatiller</a></p>
+<p><a href="https://www.hrportal.hu/munkaido-2021.html">2021 Yılı Resmi Tatiller</a></p>
+
 
 <hr>
 <table>
