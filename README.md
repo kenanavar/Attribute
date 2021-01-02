@@ -10,7 +10,6 @@
 <p><a href="http://maps.google.com/?q=Budapest, Róbert Károly körút 68, 1134">Nagy és Nagy</a></p>
 <p><a href="http://maps.google.com/?q=MOL Gas station">En Yakın MOL İstasyonu</a></p>
 <p><a href="http://maps.google.com/?q= Dunaharaszti, Jedlik Ányos út 27, 2330">Transemex</a></p>
-<p><a href="https://www.hrportal.hu/munkaido_2020.html">2020 Yılı Resmi Tatiller</a></p>
 <p><a href="https://www.hrportal.hu/munkaido-2021.html">2021 Yılı Resmi Tatiller</a></p>
 
 
