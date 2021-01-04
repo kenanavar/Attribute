@@ -46,12 +46,12 @@
     </tr>
    
    <tr>
-     <td></td>
+     <td><a href="http://maps.google.com/?q=7622 Pécs, Zólyom u. 4.">Pécs, Vásárcsarnok</a></td>
      <td><a href="http://maps.google.com/?q=1139 Budapest, Meder utca 6.">Marina Portside</a></td>
     </tr>
    
    <tr>
-     <td></td>
+     <td><a href="http://maps.google.com/?q=8600 Siófok, Vécsey Károly u. 20.">Palace Garden Hotel</a></td>
      <td><a href="http://maps.google.com/?q=1125 Budapest, Kútvölgyi út 37.">Kútvölgyi út 37.</a></td>
     </tr>
     
