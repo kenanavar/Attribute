@@ -65,8 +65,8 @@
     </tr>
     
  <tr>
-     <td><a href="http://maps.google.com/?q=8600 Siófok, Vécsey Károly u. 20.">Borso utca</a></td>
-     <td><a href="http://maps.google.com/?q=1173 Budapest, Borsó u. 66.">Bacsó Béla u. 17-23.</a></td>
+     <td><a href="http://maps.google.com/?q=1173 Budapest, Borsó u. 66.">Borso utca</a></td>
+     <td><a href="http://maps.google.com/?q=1084 Budapest, Bacsó Béla u. 17-23.">Bacsó Béla u. 17-23.</a></td>
     </tr>
     
 </table>
