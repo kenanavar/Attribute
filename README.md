@@ -56,13 +56,13 @@
     </tr>
     
    <tr>
-     <td></td>
+     <td><a href="http://maps.google.com/?q=1117 Budapest, Hunyadi János út 6.">Pappas Autószalon</a></td>
      <td><a href="http://maps.google.com/?q=1134 Budapest, Lehel u. 25.">Metropol 13</a></td>
     </tr>
     
  <tr>
-     <td></td>
-     <td><a href="http://maps.google.com/?q=Bacsó Béla u. 17-23. Budapest, 1084">Bacsó Béla u. 17-23.</a></td>
+     <td><a href="http://maps.google.com/?q=8600 Siófok, Vécsey Károly u. 20.">Borso utca</a></td>
+     <td><a href="http://maps.google.com/?q=1173 Budapest, Borsó u. 66.">Bacsó Béla u. 17-23.</a></td>
     </tr>
     
 </table>
