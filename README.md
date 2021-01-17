@@ -16,6 +16,10 @@
 <hr>
 <table>
   <tr>
+    <th>Construction</th>
+    <th>Railing</th>
+  </tr>
+  <tr>
     <td><a href="http://maps.google.com/?q=1134 Budapest, Kassak Lajos 69.">Kassak Lajos 69.</a></td>
     <td><a href="http://maps.google.com/?q=1082 Budapest, Futó u. 43-45">Corvin Sétány 122B.</a></td>
    </tr>
