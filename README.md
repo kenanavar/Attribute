@@ -73,7 +73,7 @@
     
    <tr>
      <td><a href="http://maps.google.com/?q=1135 Budapest, Tahi utca 59-61.">PC116 - Avico - Tahi utca 59-61.</a></td>
-     <td><a </a></td>
+     <td><a> </a></td>
     </tr>
     
 </table>
