@@ -81,6 +81,11 @@
      <td><a> </a></td>
     </tr>
   
+   <tr>
+     <td><a href="http://maps.google.com/?q=1097 Budapest, Haller utca 11-13.">PC117-Haller 11.</a></td>
+     <td><a> </a></td>
+    </tr>
+  
 </table>
 
 
