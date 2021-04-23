@@ -77,12 +77,12 @@
     </tr>
     
    <tr>
-     <td><a href="http://maps.google.com/?q=1021 Budapest, Völgy u. 20-22.">PC136-Gyermekek Háza</a></td>
+     <td><a href="http://maps.google.com/?q=1097 Budapest, Haller utca 11-13.">PC117-Haller 11.</a></td>
      <td><a> </a></td>
     </tr>
-  
+    
    <tr>
-     <td><a href="http://maps.google.com/?q=1097 Budapest, Haller utca 11-13.">PC117-Haller 11.</a></td>
+     <td><a href="http://maps.google.com/?q=6764 Balástya, Őszeszék tanya 198.">PC128-Balastya Kamion Parkolo</a></td>
      <td><a> </a></td>
     </tr>
     
@@ -90,6 +90,15 @@
      <td><a href="http://maps.google.com/?q=1173 Budapest, Borsó utca 66.">PC135-Borsó utca</a></td>
      <td><a> </a></td>
     </tr>
+    
+   <tr>
+     <td><a href="http://maps.google.com/?q=1021 Budapest, Völgy u. 20-22.">PC136-Gyermekek Háza</a></td>
+     <td><a> </a></td>
+    </tr>
+  
+   
+    
+  
   
 </table>
 
