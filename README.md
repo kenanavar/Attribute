@@ -67,18 +67,13 @@
     </tr>
     
  <tr>
-     <td><a href="http://maps.google.com/?q=1173 Budapest, Borsó u. 66.">Borso utca</a></td>
+     <td><a href="http://maps.google.com/?q=1135 Budapest, Tahi utca 59-61.">PC116 - Avico - Tahi utca 59-61.</a></td>
      <td><a href="http://maps.google.com/?q=1084 Budapest, Bacsó Béla u. 17-23.">Bacsó Béla u. 17-23.</a></td>
     </tr>
     
    <tr>
-     <td><a href="http://maps.google.com/?q=1135 Budapest, Tahi utca 59-61.">PC116 - Avico - Tahi utca 59-61.</a></td>
-     <td><a href="http://maps.google.com/?q=1135 Budapest, Csata utca 3-7.">Csata utca 3-7. </a></td>
-    </tr>
-    
-   <tr>
      <td><a href="http://maps.google.com/?q=1097 Budapest, Haller utca 11-13.">PC117-Haller 11.</a></td>
-     <td><a> </a></td>
+     <td><a href="http://maps.google.com/?q=1135 Budapest, Csata utca 3-7.">Csata utca 3-7. </a></td>
     </tr>
     
    <tr>
