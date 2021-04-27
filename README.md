@@ -78,7 +78,7 @@
     
    <tr>
      <td><a href="http://maps.google.com/?q=6764 Balástya, Őszeszék tanya 198.">PC128-Balastya Kamion Parkolo</a></td>
-     <td><a> </a></td>
+     <td><a href="http://maps.google.com/?q=1094 Budapest, Márton u. 9.">GAMA Residence</a></td>
     </tr>
     
    <tr>
