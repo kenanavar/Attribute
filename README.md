@@ -83,7 +83,7 @@
     
    <tr>
      <td><a href="http://maps.google.com/?q=1173 Budapest, Borsó utca 66.">PC135-Borsó utca</a></td>
-     <td><a> </a></td>
+     <td><a href="http://maps.google.com/?q=1113, Budapest Diószegi út 58.">Diószegi</a></td>
     </tr>
     
    <tr>
