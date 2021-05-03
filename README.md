@@ -88,7 +88,7 @@
     
    <tr>
      <td><a href="http://maps.google.com/?q=1021 Budapest, Völgy u. 20-22.">PC136-Gyermekek Háza</a></td>
-     <td><a> </a></td>
+     <td><a href="http://maps.google.com/?q=1134 Budapest, Bulcsú 5-9.">WestSide Residence</a></td>
     </tr>
   
    
