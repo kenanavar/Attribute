@@ -12,6 +12,7 @@
 <p><a href="http://maps.google.com/?q= Dunaharaszti, Jedlik Ányos út 27, 2330">Transemex</a></p>
 <p><a href="https://www.hrportal.hu/munkaido-2021.html">2021 Yılı Resmi Tatiller</a></p>
 <p><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAYAALHM5OBUOUZURFhHWURQVjU4UVA1SUFPVDNGVFgxTS4u">İzin Bildirme Formu</a></p>
+<p><a href="http://maps.google.com/?q= 3529 Miskolc, Petneházy D. 23.">Miskolcs Konaklama</a></p>
 
 
 
@@ -91,6 +92,18 @@
      <td><a href="http://maps.google.com/?q=1134 Budapest, Bulcsú 5-9.">WestSide Residence</a></td>
     </tr>
   
+ 
+  <tr>
+     <td><a href="http://maps.google.com/?q=3515 Miskolc,Egyetemváros 40592/11 E/7. Irodaház ">PC149-Miskolci, Levéltár</a></td>
+     <td><a </a></td>
+    </tr>
+ 
+   <tr>
+     <td><a href="http://maps.google.com/?q=3534 Miskolc, Vár u. 24.">PC140-Diósgyőri Vár</a></td>
+     <td><a </a></td>
+    </tr>
+   
+    
    
     
   
