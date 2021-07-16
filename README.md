@@ -107,6 +107,12 @@
      <td><a href="http://maps.google.com/?q=3534 Miskolc, Vár u. 24.">PC140-Diósgyőri Vár</a></td>
      <td></td>
     </tr>
+ 
+  <tr>
+     <td><a href="http://maps.google.com/?q= 20000 Szentendre,Barackos út 8.">PC153-Barackos út 8.</a></td>
+     <td></td>
+    </tr>
+   
    
     
    
