@@ -15,8 +15,8 @@
 <p><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAYAALHM5OBUOUZURFhHWURQVjU4UVA1SUFPVDNGVFgxTS4u">İzin Bildirme Formu</a></p>
 <p><a href="http://maps.google.com/?q= 3529 Miskolc, Petneházy D. 23.">Miskolcs Konaklama</a></p>
 <p><a href="http://maps.google.com/?q= 7627 Pécs, Rigóder ut 2-10.">Pécs Konaklama</a></p>
-
- <p><a href="http://maps.google.com/?q= 45.993306, 18.259806">Pogány Konaklama</a></p>
+<p><a href="http://maps.google.com/?q= 45.993306, 18.259806">Pogány Konaklama</a></p>
+ <p><a href="http://maps.google.com/?q=4400 Nyíregyháza, Epreskert utca 4-6.">Nyíregyház Konaklama</a></p>
  <p><a href="https://kenanavar.github.io/doctor/">Nimród utca 3. Aile Doktoru </a></p>
 
 
@@ -119,7 +119,20 @@
      <td></td>
     </tr>
    
-   
+ </tr>
+ 
+  <tr>
+     <td><a href="http://maps.google.com/?q= 1095 Budapest, Soroksári út 58."> PC158-City Pearl</a></td>
+     <td></td>
+    </tr>
+ 
+ 
+ </tr>
+ 
+  <tr>
+     <td><a href="http://maps.google.com/?q= 4400 Nyíregyháza, Sóstói út 24/a. HRSZ: 1391">PC164-Nyíregyház Stadion</a></td>
+     <td></td>
+    </tr>
     
    
     
