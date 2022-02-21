@@ -100,21 +100,21 @@
  <tr>
      <td><a href="http://maps.google.com/?q=3515 Miskolc,Egyetemváros 40592/11 E/7. Irodaház ">PC145-Dankó utca 10-14.</a></td>
      <td></td> 
+  </tr>
  
  
  <tr>
      <td><a href="http://maps.google.com/?q=3515 Miskolc,Egyetemváros 40592/11 E/7. Irodaház ">PC149-Miskolci, Levéltár</a></td>
      <td></td>
     </tr>
- 
-    </tr>
+  </tr>
  
   <tr>
      <td><a href="http://maps.google.com/?q= 20000 Szentendre,Barackos út 8.">PC153-Barackos út 8.</a></td>
      <td></td>
     </tr>
    
- </tr>
+
  
   <tr>
      <td><a href="http://maps.google.com/?q= 1095 Budapest, Soroksári út 58."> PC158-City Pearl</a></td>
@@ -122,14 +122,16 @@
     </tr>
  
  
- </tr>
+
  
   <tr>
      <td><a href="http://maps.google.com/?q= 4400 Nyíregyháza, Sóstói út 24/a. HRSZ: 1391">PC164-Nyíregyház Stadion</a></td>
      <td></td>
     </tr>
-    
-   
+     <tr>
+     <td><a href="http://maps.google.com/?q= 1171 Budapest, Cinkotai út 51.">PC166-Szolgáltatóház</a></td>
+     <td></td>
+    </tr>
     
   
   
