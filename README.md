@@ -98,7 +98,7 @@
      <td></td>
     </tr>
  <tr>
-     <td><a href="http://maps.google.com/?q=3515 Miskolc,Egyetemváros 40592/11 E/7. Irodaház ">PC145-Dankó utca 10-14.</a></td>
+     <td><a href="http://maps.google.com/?q=1086 Budapest, Dankó utca 10-14. ">PC145-Dankó utca 10-14.</a></td>
      <td></td> 
   </tr>
  
@@ -110,7 +110,7 @@
   </tr>
  
   <tr>
-     <td><a href="http://maps.google.com/?q= 20000 Szentendre,Barackos út 8.">PC153-Barackos út 8.</a></td>
+     <td><a href="http://maps.google.com/?q= 2000 Szentendre,Barackos út 8.">PC153-Barackos út 8.</a></td>
      <td></td>
     </tr>
    
@@ -125,11 +125,11 @@
 
  
   <tr>
-     <td><a href="http://maps.google.com/?q= 4400 Nyíregyháza, Sóstói út 24/a. HRSZ: 1391">PC164-Nyíregyház Stadion</a></td>
+     <td><a href="http://maps.google.com/?q= 4400 Nyíregyháza, Sóstói út 24/a.">PC164-Nyíregyház Stadion</a></td>
      <td></td>
     </tr>
      <tr>
-     <td><a href="http://maps.google.com/?q= 1171 Budapest, Cinkotai út 51.">PC166-Szolgáltatóház</a></td>
+     <td><a href="https://www.google.com/maps/place/Sz%C5%91l%C5%91liget+%C3%B6kopark/@47.4984394,19.2427644,1324m/data=!3m1!1e3!4m13!1m7!3m6!1s0x4741c40fd79f751f:0xf18437fcf88f9d45!2sBudapest,+Cinkotai+%C3%BAt+51,+1172!3b1!8m2!3d47.4968422!4d19.2400165!3m4!1s0x4741c520a1ea06bb:0xe73c5eee3f21177b!8m2!3d47.4995926!4d19.2501887">PC166-Szolgáltatóház</a></td>
      <td></td>
     </tr>
     
