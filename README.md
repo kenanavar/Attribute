@@ -12,7 +12,6 @@
 <p><a href="http://maps.google.com/?q=MOL Gas station">MOL Benzin İstasyonları</a></p>
 <p><a href="http://maps.google.com/?q= Dunaharaszti, Jedlik Ányos út 27, 2330">Transemex</a></p>
 <p><a href="https://www.hrportal.hu/munkaido-2022.html">2022 Yılı Resmi Tatiller</a></p>
-<p><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAYAALHM5OBUOUZURFhHWURQVjU4UVA1SUFPVDNGVFgxTS4u">İzin Bildirme Formu</a></p>
 <p><a href="http://maps.google.com/?q= 3529 Miskolc, Petneházy D. 23.">Miskolcs Konaklama</a></p>
 <p><a href="http://maps.google.com/?q= 7627 Pécs, Rigóder ut 2-10.">Pécs Konaklama</a></p>
 <p><a href="http://maps.google.com/?q= 45.993306, 18.259806">Pogány Konaklama</a></p>
