@@ -66,30 +66,34 @@
      <td><a href="http://maps.google.com/?q=1117 Budapest, Hunyadi János út 6.">Pappas Autószalon</a></td>
      <td><a href="http://maps.google.com/?q=1134 Budapest, Lehel u. 25.">Metropol 13</a></td>
     </tr>
-    
+ 
  <tr>
-     <td><a href="http://maps.google.com/?q=1135 Budapest, Tahi utca 59-61.">PC116 - Avico - Tahi utca 59-61.</a></td>
+     <td><a href="https://www.google.com/maps/place/47%C2%B019'49.8%22N+19%C2%B006'20.0%22E/@47.3304657,19.1031986,17z/data=!4m6!3m5!1s0x0:0x83797529fd59b851!7e2!8m2!3d47.3304987!4d19.1055646">PC100-Tura Group HQ</a></td>
      <td><a href="http://maps.google.com/?q=1084 Budapest, Bacsó Béla u. 17-23.">Bacsó Béla u. 17-23.</a></td>
     </tr>
     
-   <tr>
-     <td><a href="http://maps.google.com/?q=1097 Budapest, Haller utca 11-13.">PC117-Haller 11.</a></td>
+ <tr>
+     <td><a href="http://maps.google.com/?q=1135 Budapest, Tahi utca 59-61.">PC116 - Avico - Tahi utca 59-61.</a></td>
      <td><a href="http://maps.google.com/?q=1135 Budapest, Csata utca 3-7.">Csata utca 3-7. </a></td>
     </tr>
     
    <tr>
+     <td><a href="http://maps.google.com/?q=1097 Budapest, Haller utca 11-13.">PC117-Haller 11.</a></td>
+    <td><a href="http://maps.google.com/?q=1094 Budapest, Márton u. 9.">GAMA Residence</a></td>
+    </tr>
+    
+   <tr>
      <td><a href="http://maps.google.com/?q=6764 Balástya, Őszeszék tanya 198.">PC128-Balastya Kamion Parkolo</a></td>
-     <td><a href="http://maps.google.com/?q=1094 Budapest, Márton u. 9.">GAMA Residence</a></td>
+      <td><a href="http://maps.google.com/?q=1113, Budapest Diószegi út 58.">Diószegi</a></td>
     </tr>
     
    <tr>
      <td><a href="http://maps.google.com/?q=1173 Budapest, Borsó utca 66.">PC135-Borsó utca</a></td>
-     <td><a href="http://maps.google.com/?q=1113, Budapest Diószegi út 58.">Diószegi</a></td>
-    </tr>
+    <td><a href="http://maps.google.com/?q=1134 Budapest, Bulcsú 5-9.">WestSide Residence</a></td>
     
    <tr>
      <td><a href="http://maps.google.com/?q=1021 Budapest, Völgy u. 20-22.">PC136-Gyermekek Háza</a></td>
-     <td><a href="http://maps.google.com/?q=1134 Budapest, Bulcsú 5-9.">WestSide Residence</a></td>
+     <td></td>
     </tr>
   
  
@@ -130,6 +134,11 @@
     </tr>
      <tr>
      <td><a href="https://www.google.com/maps/place/Sz%C5%91l%C5%91liget+%C3%B6kopark/@47.4984394,19.2427644,1324m/data=!3m1!1e3!4m13!1m7!3m6!1s0x4741c40fd79f751f:0xf18437fcf88f9d45!2sBudapest,+Cinkotai+%C3%BAt+51,+1172!3b1!8m2!3d47.4968422!4d19.2400165!3m4!1s0x4741c520a1ea06bb:0xe73c5eee3f21177b!8m2!3d47.4995926!4d19.2501887">PC166-Szolgáltatóház</a></td>
+     <td></td>
+    </tr>
+ 
+ <tr>
+     <td><a href="http://maps.google.com/?q= 1133 Budapest, Garam utca 4."> PC180-Duna Pearl</a></td>
      <td></td>
     </tr>
  
