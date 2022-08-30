@@ -145,6 +145,16 @@
      <td><a href="http://maps.google.com/?q= 5300 Karcag, Fürdő u. 10"> PC188-Sámándob</a></td>
      <td></td>
     </tr>
+    
+ <tr>
+     <td><a href="http://maps.google.com/?q= 1139 Budapest, Rozsnyay utca 14-16."> PC202-Le Jardin</a></td>
+     <td></td>
+    </tr>
+    
+ <tr>
+     <td><a href="http://maps.google.com/?q= 1086 Budapest, Dankó u. 4-8."> PC206-Lira Raktar</a></td>
+     <td></td>
+    </tr>
  
   
 </table>
