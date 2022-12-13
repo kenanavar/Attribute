@@ -4,7 +4,7 @@
 <h1>Tura Kft. 
 <br>
  </h1>
-<p><a href="https://kenanavar.github.io/ceginfo/">Firma Bilgileri </a>(Faturalandırma için kullanılabilir)</p>
+<p><a href="https://kenanavar.github.io/firmalar/">Firma Bilgileri </a>(Faturalandırma için kullanılabilir)</p>
 <p><a href="http://maps.google.com/?q=1239 Budapest, Grassalkovich út 255. K10. 1. ép.">Grassalkovich Office</a></p>
 <p><a href="http://maps.google.com/?q=1031 Budapest, Nimród utca 3.">Nimród utca 3.</a></p>
  <p><a href="http://maps.google.com/?q=1037 Budapest. Jablonka út 20.">Jablonka út 20.</a></p>
