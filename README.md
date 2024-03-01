@@ -8,9 +8,9 @@
 <p><a href="http://maps.google.com/?q=1239 Budapest, Grassalkovich út 255. K10. 1. ép.">Grassalkovich Office</a></p>
  <p><a href="http://maps.google.com/?q=1037 Budapest. Jablonka út 20.">Jablonka út 20.</a></p>
 <p><a href="http://maps.google.com/?q=Budapest, Róbert Károly körút 68, 1134">Nagy és Nagy</a></p>
-<p><a href="http://maps.google.com/?q=MOL Gas station">MOL Benzin İstasyonları</a></p>
+<p><a href="http://maps.google.com/?q=MOL Gas station">MOL Akaryakıt İstasyonları</a></p>
 <p><a href="http://maps.google.com/?q= Dunaharaszti, Jedlik Ányos út 27, 2330">Transemex</a></p>
-<p><a href="https://www.hrportal.hu/munkaido-2023.html">2023 Yılı Resmi Tatiller</a></p>
+<p><a href="https://www.hrportal.hu/munkaido-2024.html">2023 Yılı Resmi Tatiller</a></p>
 <p><a href="http://maps.google.com/?q= 3529 Miskolc, Petneházy D. 23.">Miskolcs Konaklama</a></p>
  <p><a href="http://maps.google.com/?q=4400 Nyíregyháza, Epreskert utca 4-6.">Nyíregyház Konaklama</a></p>
 <hr>
