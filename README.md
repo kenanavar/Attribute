@@ -19,8 +19,7 @@
     <li><a href="http://maps.google.com/?q=MOL Gas station">MOL Akaryakıt İstasyonları</a></li>
     <li><a href="http://maps.google.com/?q=Dunaharaszti, Jedlik Ányos út 27, 2330">Transemex</a></li>
     <li><a href="https://www.hrportal.hu/munkaido-2025.html">2025 Yılı Resmi Tatiller</a></li>
-    <li><a href="http://maps.google.com/?q=3529 Miskolc, Petneházy D. 23.">Miskolcs Konaklama</a></li>
-    <li><a href="http://maps.google.com/?q=4400 Nyíregyháza, Epreskert utca 4-6.">Nyíregyház Konaklama</a></li>
+
 </ul>
 
 <hr>
